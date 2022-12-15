@@ -1,0 +1,12 @@
+h1{color: #050A30; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;} /* main heading */
+ .text-primary-mine{color: #05246d;} /* the dates*/
+
+a{color: #3da2f9;}/* email address */
+h2{color: #415c75;}/* the sub heading edu*/
+h3{color: #00080c;}/*sub sub headings*/
+.text-primary-name{color: #011320;}/* big Jones*/
+.Psize{display: block;/* */
+    margin-left: auto;/* */
+    margin-right: auto;
+    width: 50%;}/* pictures */
+body{background-color: #f7f7db;}/* */
